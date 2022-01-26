@@ -15,7 +15,7 @@ Aplikasi Kasir Berbasis Web SoloNet
  
 # Screenshot
 
-<img align="center" src="public\img\vlogin.png" />
+![vlogin](https://user-images.githubusercontent.com/94435779/151105254-95f769b9-1f6b-4d79-a86b-6b6cc67dde27.PNG)
 
 <img align="center" src="public\img\vdashboard.png" />
 

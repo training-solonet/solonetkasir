@@ -17,24 +17,24 @@ Aplikasi Kasir Berbasis Web SoloNet
 
 ![vlogin](https://user-images.githubusercontent.com/94435779/151105254-95f769b9-1f6b-4d79-a86b-6b6cc67dde27.PNG)
 
-<img align="center" src="public\img\vdashboard.png" />
+![vdashboard](https://user-images.githubusercontent.com/94435779/151105518-589a658f-a4ff-4052-be5d-00a9f114ca20.PNG)
 
-<img align="center" src="public\img\vkategori.png" />
+![vkategori](https://user-images.githubusercontent.com/94435779/151105551-b6b99798-999c-4294-bf1c-795abe6559a0.PNG)
 
-<img align="center" src="public\img\vproduk.png" />
+![vproduk](https://user-images.githubusercontent.com/94435779/151105603-f205b59d-2ff8-45e6-8ad4-f7f01e93b62e.PNG)
 
-<img align="center" src="public\img\vmember.png" />
+![vmember](https://user-images.githubusercontent.com/94435779/151105626-ad35e524-a370-45a3-b25e-7171e4bdcd81.PNG)
 
-<img align="center" src="public\img\vsupplier.png" />
+![vsupplier](https://user-images.githubusercontent.com/94435779/151105644-ccdf9340-bbd5-4b4f-9a74-726ffdb8dd55.PNG)
 
-<img align="center" src="public\img\vpengeluaran.png" />
+![vpengeluaran](https://user-images.githubusercontent.com/94435779/151105676-1ed5fc39-cddc-4c04-8434-cada908e5976.PNG)
 
-<img align="center" src="public\img\vpembelian.png" />
+![vpembelian](https://user-images.githubusercontent.com/94435779/151105698-bc1ccf27-7bd2-46f1-913c-7b58773ab013.PNG)
 
-<img align="center" src="public\img\vpenjualan.png" />
+![vpenjualan](https://user-images.githubusercontent.com/94435779/151105734-d452f977-800b-413b-9faa-1257b269fd2d.PNG)
 
-<img align="center" src="public\img\vlaporan.png" />
+![vlaporan](https://user-images.githubusercontent.com/94435779/151105758-73783d95-9bb1-40b3-b42d-9ac877e3d8d4.PNG)
 
-<img align="center" src="public\img\vuser.png" />
+![vuser](https://user-images.githubusercontent.com/94435779/151105793-67555d0b-d758-4e54-8594-bbe2ad1797dc.PNG)
 
-<img align="center" src="public\img\vpengaturan.png" />
+![vpengaturan](https://user-images.githubusercontent.com/94435779/151105822-fd935fb0-1735-474c-a534-2741107725ca.PNG)
